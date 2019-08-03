@@ -1,4 +1,4 @@
-#**Convolutional Neural Networks for American Sign Language Letter Identification**
+## **Convolutional Neural Networks for American Sign Language Letter Identification**
 
 This was an individual research project done to explore the applications
 of convolutional neural networks to ASL letter signs. The CNN was trained
